@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **naomizerfu@gmail.com**
 
-- ⚡ Fun fact **I love magic**
+- ⚡ Fun fact ***I love magic***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
