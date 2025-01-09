@@ -16,4 +16,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namizz&show_icons=true&locale=en" alt="namizz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namizz&" alt="namizz" /></p>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nathanaelcheramlak&theme=calm&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</div>
