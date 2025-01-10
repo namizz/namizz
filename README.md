@@ -19,9 +19,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namizz&" alt="namizz" /></p>
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=namizz&theme=calm&hide_border=true" alt="GitHub Streak Stats" />
   </a>
-</div>
+</p>
+
 
